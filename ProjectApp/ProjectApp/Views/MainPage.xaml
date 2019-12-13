@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProjectApp.Views.MainPage"
+             Title="{Binding Title}"
+             BackgroundColor="White">
+
+    <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" Margin="20,20">
+
+        <Image Source="splashscreen.jpeg"
+               HorizontalOptions="CenterAndExpand"
+               VerticalOptions="Center"/>
+      
+        <Label Text="Welcome to the Whistle Blower app" 
+               HorizontalOptions="CenterAndExpand"
+               HeightRequest="50"
+               TextColor="Black"
+               FontSize="Large"/>
+        <Label Text="We need you to set up a few things"
+               FontSize="Medium"
+               TextColor="CadetBlue"/>
+        <Entry Text="{Binding UserName}" Placeholder="UserName"
+               PlaceholderColor="DimGray"/>
+        
+            <Label Text="Appear as annonymous"
+                   TextColor="DarkSlateGray"/>
+            <Switch IsToggled="{Binding MySwitch}"
+                    OnColor="CadetBlue"
+                    ThumbColor="Blue"
+                   />
+       
+        <Entry Text="{Binding Password}" Placeholder="Password"
+               PlaceholderColor="DimGray"/>
+        <Button Text="Login" Command="{Binding LoginCommand}"
+                BackgroundColor="CadetBlue"/>
+        <Label Text="Note: Appearing as annonymous means your UserName is not visible to the public"
+               FontSize="Small"
+               TextColor="DarkSlateGray"/>
+    </StackLayout>
+
+</ContentPage>

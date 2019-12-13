@@ -1,0 +1,17 @@
+C:\Xamarin\ProjectApp\ProjectApp\ProjectApp\ProjectApp\bin\Debug\netstandard2.0\ProjectApp.deps.json
+C:\Xamarin\ProjectApp\ProjectApp\ProjectApp\ProjectApp\bin\Debug\netstandard2.0\ProjectApp.dll
+C:\Xamarin\ProjectApp\ProjectApp\ProjectApp\ProjectApp\bin\Debug\netstandard2.0\ProjectApp.pdb
+C:\Xamarin\ProjectApp\ProjectApp\ProjectApp\ProjectApp\bin\Debug\netstandard2.0\Mono.Android.dll
+C:\Xamarin\ProjectApp\ProjectApp\ProjectApp\ProjectApp\bin\Debug\netstandard2.0\Mono.Android.pdb
+C:\Xamarin\ProjectApp\ProjectApp\ProjectApp\ProjectApp\bin\Debug\netstandard2.0\Mono.Android.xml
+C:\Xamarin\ProjectApp\ProjectApp\ProjectApp\ProjectApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin\ProjectApp\ProjectApp\ProjectApp\ProjectApp\obj\Debug\netstandard2.0\Views\ContentPage1View.xaml.g.cs
+C:\Xamarin\ProjectApp\ProjectApp\ProjectApp\ProjectApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Xamarin\ProjectApp\ProjectApp\ProjectApp\ProjectApp\obj\Debug\netstandard2.0\Views\ReportPageView.xaml.g.cs
+C:\Xamarin\ProjectApp\ProjectApp\ProjectApp\ProjectApp\obj\Debug\netstandard2.0\ProjectApp.AssemblyInfoInputs.cache
+C:\Xamarin\ProjectApp\ProjectApp\ProjectApp\ProjectApp\obj\Debug\netstandard2.0\ProjectApp.AssemblyInfo.cs
+C:\Xamarin\ProjectApp\ProjectApp\ProjectApp\ProjectApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin\ProjectApp\ProjectApp\ProjectApp\ProjectApp\obj\Debug\netstandard2.0\ProjectApp.csproj.CopyComplete
+C:\Xamarin\ProjectApp\ProjectApp\ProjectApp\ProjectApp\obj\Debug\netstandard2.0\ProjectApp.dll
+C:\Xamarin\ProjectApp\ProjectApp\ProjectApp\ProjectApp\obj\Debug\netstandard2.0\ProjectApp.pdb
+C:\Xamarin\ProjectApp\ProjectApp\ProjectApp\ProjectApp\obj\Debug\netstandard2.0\ProjectApp.csprojAssemblyReference.cache
